@@ -3,10 +3,9 @@ My first repository
 
 <html>
 <head>
-  <title> My Favorite Series </title> 
 </head>
 <body>
-
+<h1>My Favorite Series</h1>
 <h1>Back Street Rookie</h1>
 <h3>Kdrama Series</h3>
   <br> 
