@@ -3,7 +3,7 @@ My first repository
 
 <html>
 <head>
-<title>Page Title</title>
+<title>My Favorite Series</title>
 </head>
 <body>
 
