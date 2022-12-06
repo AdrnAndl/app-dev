@@ -2,12 +2,6 @@
 <html>
 <head>
 My first repository
-  <style>
-    em {
-    color: blue;
-    font-style: normal;
-    }
-  </style>
 </head>
   <body>
     <h1>My Favorite Kdrama Series</h1>
